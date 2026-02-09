@@ -20,8 +20,8 @@ This project focuses on traffic flow forecasting using multiple machine learning
 - Python
 - Pandas, NumPy
 - Scikit learn
-- TensorFlow / Keras
-- Matplotlib / Seaborn
+- TensorFlow 
+- Matplotlib 
 
 ## Status
 Project currently under active development. Additional models, evaluation metrics, and comparative analysis are being added continuously.
